@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	justify-content:flex-end;
+	flex-direction:row-reverse
+}
+.f1{
+	width:100px;
+	height:100px;
+	background-color:red;
+	
+}
+.f2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.f3{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
